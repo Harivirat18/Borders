@@ -1,0 +1,18 @@
+table, th, tr, td {
+	padding:40 30px;
+	margin:0 auto;
+	text-align:center;
+	border:3px solid black;
+	border-collapse:collapse;
+}
+.box{
+	padding:30 40px;
+	text-align:center;
+    border-style:dashed;
+	color:red;
+	border-radius:40px;
+}
+th{
+	border-color:blue;
+	border-style:double;
+}
